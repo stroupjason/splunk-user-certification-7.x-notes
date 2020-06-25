@@ -8,8 +8,8 @@ What this course will cover in 14 modules:
 
 1. Module 1
 
-- What is Machine Data
-- Module 1 Quiz
+- [What is Machine Data](https://github.com/stroupjason/splunk-user-certification-7.x-notes/tree/master/Module%201)
+- [Module 1 Quiz](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/Module%201/img/splunk-module-1-quiz-Screen%20Shot%202020-06-24%20at%2010.18.32%20PM.png)
 
 2. Module 2
 
