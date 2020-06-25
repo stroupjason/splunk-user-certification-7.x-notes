@@ -15,8 +15,8 @@ This free course teaches you how to search and navigate in Splunk, use fields, g
 
 **2. Module 2**
 
-- What is Splunk
-- Module 2 Quiz Results
+- [What is Splunk](https://github.com/stroupjason/splunk-user-certification-7.x-notes/tree/master/Module%202)
+- [Module 2 Quiz Results](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/module-2-quiz-result-Screen%20Shot.png)
 
 **3. Module 3**
 
