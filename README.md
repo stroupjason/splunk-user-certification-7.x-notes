@@ -20,9 +20,9 @@ This free course teaches you how to search and navigate in Splunk, use fields, g
 
 **3. Module 3**
 
-- Installing Splunk
-- Module 3 lab
-- Module 3 Quiz Results
+- [Installing Splunk - Apps and Roles](https://github.com/stroupjason/splunk-user-certification-7.x-notes/tree/master/Module%203)
+- [Module 3 lab](https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/Module%203/SplunkFundamentals1_module3.pdf)
+- [Module 3 Quiz Results](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/module-3-quiz-result-screen-shot.png)
 
 **4. Module 4**
 

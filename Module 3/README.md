@@ -42,7 +42,7 @@ https://docs.splunk.com/Documentation/Splunk
 ./splunk restart
 ./splunk help
 
-![splunk enterpise local host interface]()
+![splunk enterpise local host interface](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/splunk-installed-local-host-login-Screen%20Shot.png)
 
 ### Splunk Cloud
 
@@ -79,7 +79,9 @@ THer are 100s of apps that you can pull down
 
 # Module 3 Lab
 
-[insert hosted pdf here](Module 3/SplunkFundamentals1_module3.pdf)
+[Module 3 lab full pdf](https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/Module%203/SplunkFundamentals1_module3.pdf)
+
+![explore splunk enterprise app interface](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/splunk-enterprise-app-dashboard-Screen%20Shot.png)
 
 # Module 3 Quiz
 
@@ -97,9 +99,11 @@ THer are 100s of apps that you can pull down
 4. You can launch and manage apps from the home app. T/F
    True
 
-5. ****\_**** define what users can do in Splunk.
+5. \***\*\_\*\*** define what users can do in Splunk.
    [] Tokens
    [] Disk permissions
    [X] Roles
 
 Elapsed time: 4min
+
+![Quiz result](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/module-3-quiz-result-screen-shot.png)
