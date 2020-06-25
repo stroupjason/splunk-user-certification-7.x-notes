@@ -88,4 +88,4 @@ What this course will cover in 14 modules:
 - Module 14 Lab
 - Module 14 Quiz
 
-![quiz 1 screen shot results](img/splunk-course-overview-Screen Shot.png)
+![quiz 1 screen shot results](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/splunk-course-overview-Screen%20Shot.png)
