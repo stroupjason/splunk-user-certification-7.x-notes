@@ -12,9 +12,9 @@
   - hours to find a single event in the data
   - ie. application support issue came throught to support
     - establish that it's not an application error
-    - go throught the SQL logs found a slow query making it for some clients difficult to complete their transactions. 9 hours had passed, not a great scenario with one issue.
+    - go throught the SQL logs found a slow query making it for some clients difficult to complete their transactions. 9 hours had passed, not a great scenario         with one issue.
   - How do you solve this in less time?
-    - find the event in elastic search or kibana logging xml or json logs and find the event that's tied to a db query which is correlated to the entry in the slow query log in a matter of minutes and only impacting a developer's help
+    - find the event in elastic search or kibana logging xml or json logs and find the event that's tied to a db query which is correlated to the entry in the          slow query log in a matter of minutes and only impacting a developer's help
     - pin point, correlate, and pinpoint these events to stay ahead of the curve and alert the support team before the client even writes into support
     - saves tiem and money
   - "splunk can take in any data and add it to an intelligible search-able index. ading structure to an unstructured data".
@@ -33,5 +33,5 @@
 
   100% Passing Score
   
-  ![quiz 1 screen shot results](Module 1/img/splunk-module-1-quiz-Screen Shot 2020-06-24 at 10.18.32 PM.png)
+  ![quiz 1 screen shot results](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/Module%201/img/splunk-module-1-quiz-Screen%20Shot%202020-06-24%20at%2010.18.32%20PM.png)
   
