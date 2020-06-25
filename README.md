@@ -87,3 +87,5 @@ What this course will cover in 14 modules:
 - Basic Searching
 - Module 14 Lab
 - Module 14 Quiz
+
+![quiz 1 screen shot results](img/splunk-course-overview-Screen Shot.png)
