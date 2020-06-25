@@ -1,4 +1,4 @@
-# SPLUNK 7.X CORE CERTIFIED USER NOTES
+# SPLUNK 7.X FUNDAMENTALS PART 1 (eLearning) NOTES
 
 Free course found on https://www.splunk.com certification tracks
 
