@@ -90,7 +90,7 @@
 
 - True
 
-3. Commands that create statistics and visualizations are called ******\_\_\_****** commands.
+3. Commands that create statistics and visualizations are called **\*\***\_\_\_**\*\*** commands.
 
 - transforming
 
@@ -104,4 +104,4 @@
    [ ] Event
    [ ] Task for Jimmy the Splunk elf
 
-![Module 5 Quiz Results])()
+![Module 5 Quiz Results](https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/img/Module%205%20Quiz%20Results%20Screen%20Shot.png)
