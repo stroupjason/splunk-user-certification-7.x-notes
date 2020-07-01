@@ -6,6 +6,8 @@
 
 # 4) FORWADERS
 
+# 5) Quiz
+
 # TYPES OF INPUT - GETTING DATA IN
 
 1. Upload - The upload option while logged in as an adminstrator allows the user to upload local files to a splunk enterprise index that only gets indexed once and never gets updated
@@ -64,3 +66,30 @@
 # FORWARDERS
 
 - out of scope for this course - see documentation for more details: https://docs.splunk.com/Documentation/Splunk/latest/Data/Usingforwardingagents
+
+# 5) Quiz
+
+1. In most production environments, **\_\_\_** will be used as the source of data input.
+
+- forwarders
+
+2. The monitor input option will allow you to continuously monitor files. T/F
+
+- True
+
+3. Splunk knows where to break the event, where the time stamp is located and how to automatically create field value pairs using these.
+   [X ] Source types
+   [ ] File names
+   [ ] Line breaks
+
+4. Files indexed using the the upload input option get indexed **\_**.
+   [ ] Every hour
+   [ ] On every search
+   [ ] Each time Splunk restarts
+   [X ] Once
+
+5. Splunk uses **\_\_\_\_** to categorize the type of data being indexed.
+
+- source types
+
+![Module 4 Quiz Results](https://raw.githubusercontent.com/stroupjason/splunk-user-certification-7.x-notes/master/img/quiz-4-results-2020-07-01.png)
