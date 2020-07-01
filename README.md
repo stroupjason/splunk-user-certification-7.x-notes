@@ -26,15 +26,15 @@ This free course teaches you how to search and navigate in Splunk, use fields, g
 
 **4. Module 4**
 
-- Getting Data In
-- Module 4 Lab
-- Module 4 Quiz Results
+- [Getting Data In](https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/Module%204/README.md)
+- [Module 4 Lab](https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/Module%204/SplunkFundamentals1_module4.pdf)
+- [Module 4 Quiz Results]
 
 **5. Module 5**
 
-- Basic Searching
-- Module 5 Lab
-- Module 5 Quiz Results
+- [Basic Searching]
+- [Module 5 Lab]
+- [Module 5 Quiz Results]
 
 **6. Module 6**
 
