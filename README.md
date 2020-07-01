@@ -89,3 +89,5 @@ This free course teaches you how to search and navigate in Splunk, use fields, g
 - Basic Searching
 - Module 14 Lab
 - Module 14 Quiz Results
+
+[Full Course PDF Outline](<https://github.com/stroupjason/splunk-user-certification-7.x-notes/blob/master/img/Splunk%207.x%20Fundamentals%20Part%201%20(eLearning).pdf>)
