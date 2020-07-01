@@ -38,55 +38,54 @@ This free course teaches you how to search and navigate in Splunk, use fields, g
 
 **6. Module 6**
 
-- Basic Searching
+- Using Fields
 - Module 6 Lab
 - Module 6 Quiz Results
 
 **7. Module 7**
 
-- Basic Searching
+- Best Practices
 - Module 7 Lab
-- Module 7 Quiz Reslts
 
 **8. Module 8**
 
-- Basic Searching
+- SPL Fundamentals
 - Module 8 Lab
 - Module 8 Quiz Results
 
 **9. Module 9**
 
-- Basic Searching
+- Transforming Commands
 - Module 9 Lab
 - Module 9 Quiz Results
 
 **10. Module 10**
 
-- Basic Searching
+- Reports and Dashboards
 - Module 10 Lab
 - Module 10 Quiz Results
 
 **11. Module 11**
 
-- Basic Searching
+- Pivots and Datasets
 - Module 11 Lab
 - Module 11 Quiz Results
 
 **12. Module 12**
 
-- Basic Searching
+- Lookups
 - Module 12 Lab
 - Module 12 Quiz Results
 
 **13. Module 13**
 
-- Basic Searching
+- Scheduled Reports and Alerts
 - Module 13 Lab
 - Module 13 Quiz Results
 
 **14. Module 14**
 
-- Basic Searching
+- Final Thoughts
 - Module 14 Lab
 - Module 14 Quiz Results
 
